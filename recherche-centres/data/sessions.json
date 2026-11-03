@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T11:15:15+00:00",
+  "generated_at": "2026-11-03T10:56:33+00:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -316,18 +316,6 @@
   ],
   "sessions": [
     {
-      "id_session": "SES_CLERMONT_FERRAND_20261104_4DE0C0A1",
-      "code_centre": "CLERMONT_FERRAND",
-      "region": "Auvergne",
-      "ville": "Clermont-Ferrand",
-      "date_session": "2026-11-04",
-      "statut": "À venir",
-      "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 74
-    },
-    {
       "id_session": "SES_CLERMONT_FERRAND_20261125_F8C6DF7F",
       "code_centre": "CLERMONT_FERRAND",
       "region": "Auvergne",
@@ -337,7 +325,7 @@
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 75
+      "_row": 74
     },
     {
       "id_session": "SES_CLERMONT_FERRAND_20261209_2078663E",
@@ -345,6 +333,18 @@
       "region": "Auvergne",
       "ville": "Clermont-Ferrand",
       "date_session": "2026-12-09",
+      "statut": "À venir",
+      "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 75
+    },
+    {
+      "id_session": "SES_CLERMONT_FERRAND_20270106_A340B764",
+      "code_centre": "CLERMONT_FERRAND",
+      "region": "Auvergne",
+      "ville": "Clermont-Ferrand",
+      "date_session": "2027-01-06",
       "statut": "À venir",
       "lien_forms": "https://forms.cloud.microsoft/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChURjEzQVlJWjdUMlFXODhXN1pPR0JGN1RDWCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
@@ -688,18 +688,6 @@
       "_row": 104
     },
     {
-      "id_session": "SES_BESANCON_20261104_C54A5A48",
-      "code_centre": "BESANCON",
-      "region": "Franche-Comté",
-      "ville": "Besançon",
-      "date_session": "2026-11-04",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 105
-    },
-    {
       "id_session": "SES_BESANCON_20261112_5B30EF9B",
       "code_centre": "BESANCON",
       "region": "Franche-Comté",
@@ -709,7 +697,7 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 106
+      "_row": 105
     },
     {
       "id_session": "SES_BESANCON_20261118_CEC5B022",
@@ -717,6 +705,18 @@
       "region": "Franche-Comté",
       "ville": "Besançon",
       "date_session": "2026-11-18",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 106
+    },
+    {
+      "id_session": "SES_BESANCON_20261126_F1649AFB",
+      "code_centre": "BESANCON",
+      "region": "Franche-Comté",
+      "ville": "Besançon",
+      "date_session": "2026-11-26",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
@@ -760,18 +760,6 @@
       "_row": 110
     },
     {
-      "id_session": "SES_MONTBELIARD_20261104_96DB837B",
-      "code_centre": "MONTBELIARD",
-      "region": "Franche-Comté",
-      "ville": "Montbéliard",
-      "date_session": "2026-11-04",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 111
-    },
-    {
       "id_session": "SES_MONTBELIARD_20261202_3B6A76D3",
       "code_centre": "MONTBELIARD",
       "region": "Franche-Comté",
@@ -781,7 +769,7 @@
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 112
+      "_row": 111
     },
     {
       "id_session": "SES_MONTBELIARD_20270126_54A7015C",
@@ -789,6 +777,18 @@
       "region": "Franche-Comté",
       "ville": "Montbéliard",
       "date_session": "2027-01-26",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 112
+    },
+    {
+      "id_session": "SES_MONTBELIARD_20270218_0C55C534",
+      "code_centre": "MONTBELIARD",
+      "region": "Franche-Comté",
+      "ville": "Montbéliard",
+      "date_session": "2027-02-18",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/Pages/ResponsePage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNUo5SUNJN1o2MjVKOEtFVUxPVU9LSElDWCQlQCN0PWcu",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
@@ -940,18 +940,6 @@
       "_row": 125
     },
     {
-      "id_session": "SES_STRASBOURG_20261106_B2F4AE9C",
-      "code_centre": "STRASBOURG",
-      "region": "Grand Est",
-      "ville": "Strasbourg",
-      "date_session": "2026-11-06",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 126
-    },
-    {
       "id_session": "SES_STRASBOURG_20261127_AD5BFE6B",
       "code_centre": "STRASBOURG",
       "region": "Grand Est",
@@ -961,7 +949,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 127
+      "_row": 126
     },
     {
       "id_session": "SES_STRASBOURG_20261210_6DD877F5",
@@ -969,6 +957,18 @@
       "region": "Grand Est",
       "ville": "Strasbourg",
       "date_session": "2026-12-10",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 127
+    },
+    {
+      "id_session": "SES_STRASBOURG_20270114_272B5B10",
+      "code_centre": "STRASBOURG",
+      "region": "Grand Est",
+      "ville": "Strasbourg",
+      "date_session": "2027-01-14",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
