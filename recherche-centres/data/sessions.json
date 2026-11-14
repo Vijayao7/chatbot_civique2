@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T11:04:13+00:00",
+  "generated_at": "2026-11-14T10:30:57+00:00",
   "centres": [
     {
       "code_region": "AUVERGNE",
@@ -448,18 +448,6 @@
       "_row": 84
     },
     {
-      "id_session": "SES_AUXERRE_20261118_012E75CB",
-      "code_centre": "AUXERRE",
-      "region": "Bourgogne",
-      "ville": "Auxerre",
-      "date_session": "2026-11-18",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 85
-    },
-    {
       "id_session": "SES_AUXERRE_20261216_9A0D2EFF",
       "code_centre": "AUXERRE",
       "region": "Bourgogne",
@@ -469,7 +457,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 86
+      "_row": 85
     },
     {
       "id_session": "SES_AUXERRE_20270317_218FB38C",
@@ -477,6 +465,18 @@
       "region": "Bourgogne",
       "ville": "Auxerre",
       "date_session": "2027-03-17",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 86
+    },
+    {
+      "id_session": "SES_AUXERRE_20270616_31E3B291",
+      "code_centre": "AUXERRE",
+      "region": "Bourgogne",
+      "ville": "Auxerre",
+      "date_session": "2027-06-16",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
@@ -580,18 +580,6 @@
       "_row": 95
     },
     {
-      "id_session": "SES_NEVERS_20261117_C40E108A",
-      "code_centre": "NEVERS",
-      "region": "Bourgogne",
-      "ville": "Nevers",
-      "date_session": "2026-11-17",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 96
-    },
-    {
       "id_session": "SES_NEVERS_20261215_E5CC4657",
       "code_centre": "NEVERS",
       "region": "Bourgogne",
@@ -601,7 +589,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 97
+      "_row": 96
     },
     {
       "id_session": "SES_NEVERS_20270309_C3BBB398",
@@ -613,19 +601,19 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 98
+      "_row": 97
     },
     {
-      "id_session": "SES_SENS_20261117_DB03E310",
-      "code_centre": "SENS",
+      "id_session": "SES_NEVERS_20270608_4C67CCA9",
+      "code_centre": "NEVERS",
       "region": "Bourgogne",
-      "ville": "Sens",
-      "date_session": "2026-11-17",
+      "ville": "Nevers",
+      "date_session": "2027-06-08",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 99
+      "_row": 98
     },
     {
       "id_session": "SES_SENS_20261215_71818982",
@@ -637,7 +625,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 100
+      "_row": 99
     },
     {
       "id_session": "SES_SENS_20270303_4039F5B0",
@@ -645,6 +633,18 @@
       "region": "Bourgogne",
       "ville": "Sens",
       "date_session": "2027-03-03",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 100
+    },
+    {
+      "id_session": "SES_SENS_20270602_349ADFE5",
+      "code_centre": "SENS",
+      "region": "Bourgogne",
+      "ville": "Sens",
+      "date_session": "2027-06-02",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUMU5BMzNJTE1ZVzJROEVXWkVTTEtTTjEzUyQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
@@ -868,18 +868,6 @@
       "_row": 119
     },
     {
-      "id_session": "SES_REIMS_20261202_4A358429",
-      "code_centre": "REIMS",
-      "region": "Grand Est",
-      "ville": "Reims",
-      "date_session": "2026-12-02",
-      "statut": "À venir",
-      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
-      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
-      "actif": "Oui",
-      "_row": 120
-    },
-    {
       "id_session": "SES_REIMS_20270120_A248C1E9",
       "code_centre": "REIMS",
       "region": "Grand Est",
@@ -889,7 +877,7 @@
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
       "actif": "Oui",
-      "_row": 121
+      "_row": 120
     },
     {
       "id_session": "SES_REIMS_20270203_A3C69512",
@@ -897,6 +885,18 @@
       "region": "Grand Est",
       "ville": "Reims",
       "date_session": "2027-02-03",
+      "statut": "À venir",
+      "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
+      "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
+      "actif": "Oui",
+      "_row": 121
+    },
+    {
+      "id_session": "SES_REIMS_20270224_31503898",
+      "code_centre": "REIMS",
+      "region": "Grand Est",
+      "ville": "Reims",
+      "date_session": "2027-02-24",
       "statut": "À venir",
       "lien_forms": "https://forms.office.com/pages/responsepage.aspx?id=Cf5pfw3SOUOtLY5q0AbYj15YUUzJ44lEjv9UrEuppChUNlpSVzg1VkxHUlhNVDFBQTk4N0pNUkU1WCQlQCN0PWcu&route=shorturl",
       "source": "Site FRATE : https://frateformation.net/formation/examen-civique/",
