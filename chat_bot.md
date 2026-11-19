@@ -772652,7 +772652,7 @@ Le travail non déclaré, aussi appelé travail dissimulé, est interdit par la 
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-11-18T11:48:27+00:00 -->
+<!-- Date : 2026-11-19T11:45:11+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
