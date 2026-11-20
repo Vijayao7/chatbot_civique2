@@ -772652,7 +772652,7 @@ Le travail non déclaré, aussi appelé travail dissimulé, est interdit par la 
 <!-- Début du fichier source : modules/07_passer_examen.md -->
 
 <!-- Module généré automatiquement : Passer examen -->
-<!-- Date : 2026-11-19T11:45:11+00:00 -->
+<!-- Date : 2026-11-20T11:45:25+00:00 -->
 
 ## SCR_PASS_CITY_ANNECY
 ### 📍 Annecy (74)
@@ -772767,9 +772767,9 @@ Le travail non déclaré, aussi appelé travail dissimulé, est interdit par la 
 
 #### 📅 Prochaines sessions disponibles
 
-- 20 novembre 2026
 - 17 décembre 2026
 - 22 janvier 2027
+- 26 février 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
@@ -773206,9 +773206,9 @@ Le travail non déclaré, aussi appelé travail dissimulé, est interdit par la 
 
 #### 📅 Prochaines sessions disponibles
 
-- 25 novembre 2026
 - 9 décembre 2026
 - 13 janvier 2027
+- 10 février 2027
 
 <!-- Condition métier : Au moins une session future -->
 <ul class="messageOptions">
